@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Apercu Mono Pro';
+    src: url(../fonts/ApercuMonoPro/ApercuMonoProRegular.eot);
+    src: url(../fonts/ApercuMonoPro/ApercuMonoProRegular.eot?#iefix) format('embedded-opentype'),
+         url(../fonts/ApercuMonoPro/ApercuMonoProRegular.otf) format('otf'),
+         url(../fonts/ApercuMonoPro/ApercuMonoProRegular.ttf) format('truetype'),
+         url(../fonts/ApercuMonoPro/ApercuMonoProRegular.woff) format('woff'),
+         url(../fonts/ApercuMonoPro/ApercuMonoProRegular.woff2) format('woff2');
+  }
+
+  @font-face {
+    font-family: 'Apercu Mono Pro Bold';
+    src: url(../fonts/ApercuMonoPro/ApercuMonoProBold.eot);
+    src: url(../fonts/ApercuMonoPro/ApercuMonoProBold.eot?#iefix) format('embedded-opentype'),
+         url(../fonts/ApercuMonoPro/ApercuMonoProBold.otf) format('otf'),
+         url(../fonts/ApercuMonoPro/ApercuMonoProBold.ttf) format('truetype'),
+         url(../fonts/ApercuMonoPro/ApercuMonoProBold.woff) format('woff'),
+         url(../fonts/ApercuMonoPro/ApercuMonoProBold.woff2) format('woff2');
+  }
